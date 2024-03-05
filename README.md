@@ -1,8 +1,7 @@
-# React + Vite
+[![Netlify Status](https://api.netlify.com/api/v1/badges/99821f4f-ec4d-4443-99a5-7c395bde71fd/deploy-status)](https://app.netlify.com/sites/spotify-albumfinder/deploys)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Spotify Album Finder
 
-Currently, two official plugins are available:
+A simple album finder app with Spotify API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1231" alt="image" src="https://github.com/emirbuckun/spotify-album-finder/assets/63044078/8a75279b-9fcf-458d-bc4e-19874013cc93">
